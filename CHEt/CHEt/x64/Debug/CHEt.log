@@ -1,0 +1,3 @@
+﻿  CHEt.cpp
+C:\Users\gerak\source\repos\CHEt\CHEt.cpp(6,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  CHEt.vcxproj -> C:\Users\gerak\source\repos\CHEt\x64\Debug\CHEt.exe
