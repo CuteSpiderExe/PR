@@ -1,0 +1,4 @@
+﻿  Massiv.cpp
+C:\Users\gerak\source\repos\Massiv\Massiv.cpp(26,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gerak\source\repos\Massiv\Massiv.cpp(31,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Massiv.vcxproj -> C:\Users\gerak\source\repos\CHEt\x64\Debug\Massiv.exe
