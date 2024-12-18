@@ -1,0 +1,3 @@
+﻿  Student.cpp
+C:\Users\gerak\source\repos\Student\Student.cpp(25,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Student.vcxproj -> C:\Users\gerak\source\repos\CHEt\x64\Debug\Student.exe
