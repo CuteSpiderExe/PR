@@ -1,0 +1,3 @@
+﻿  Math.cpp
+C:\Users\gerak\source\repos\Math\Math.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Math.vcxproj -> C:\Users\gerak\source\repos\CHEt\x64\Debug\Math.exe
